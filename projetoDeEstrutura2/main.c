@@ -31,6 +31,7 @@ void menuDeMensagem(char* mensagem){
   printf("-------------------------------------------------------------\n");
 }
 
+
 void menuLogin(){
   printf("-------------------------------------------------------------\n");
   printf("\tBem vindo, Digite suas informacoes para entrar\n");
